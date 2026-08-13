@@ -61,6 +61,11 @@ header{
 	text-align: center;
 }
 
+section[epub|type~="preface"],
+#reflections-on-the-revolution-in-france{
+	margin-top: 20vh;
+}
+
 table td:nth-child(2),
 table td:nth-child(3),
 table td:nth-child(4),
