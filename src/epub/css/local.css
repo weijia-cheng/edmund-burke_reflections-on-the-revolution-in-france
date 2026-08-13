@@ -51,6 +51,12 @@ p span.i11{
 }
 /* End poetry */
 
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
 table td:nth-child(2),
 table td:nth-child(3),
 table td:nth-child(4),
