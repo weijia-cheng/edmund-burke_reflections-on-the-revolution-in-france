@@ -26,10 +26,6 @@ blockquote[xml|lang] em{
 	display: none;
 }
 
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:verse"] cite p{
 	text-align: right;
 }
