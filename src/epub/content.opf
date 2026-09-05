@@ -30,20 +30,28 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Reflections on the Revolution in France</dc:title>
 		<meta property="file-as" refines="#title">Reflections on the Revolution in France</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">And on the Proceedings in Certain Societies in London Relative to That Event, in a Letter Intended to Have Been Sent to a Gentleman in Paris</dc:title>
+		<meta property="file-as" refines="#subtitle">And on the Proceedings in Certain Societies in London Relative to That Event, in a Letter Intended to Have Been Sent to a Gentleman in Paris</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Reflections on the Revolution in France: And on the Proceedings in Certain Societies in London Relative to That Event, in a Letter Intended to Have Been Sent to a Gentleman in Paris</dc:title>
+		<meta property="file-as" refines="#fulltitle">Reflections on the Revolution in France</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Great Britain -- Politics and government -- 1760-1820</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85056908</meta>
 		<dc:subject id="subject-2">Political science -- Early works to 1800</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85104443</meta>
-		<meta property="schema:genre">TAG</meta>
-		<meta property="schema:abstract">DESCRIPTION</meta>
+		<meta property="schema:genre">Nonfiction</meta>
+		<meta property="schema:genre">Philosophy</meta>
+		<meta property="schema:abstract">The conservative political theorist Edmund Burke critiques the political program of the French Revolution.</meta>
 		<dc:description>
 			LONG_DESCRIPTION
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/15679</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/006064054</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
 		<link href="https://en.wikipedia.org/wiki/Reflections_on_the_Revolution_in_France" rel="schema:sameAs"/>
@@ -52,30 +60,27 @@
 		<link href="https://github.com/standardebooks/edmund-burke_reflections-on-the-revolution-in-france" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Edmund Burke</dc:creator>
 		<meta property="file-as" refines="#author">Burke, Edmund</meta>
-		<meta property="schema:alternateName" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<link href="https://en.wikipedia.org/wiki/Edmund_Burke" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79040055.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<link href="COVER_ARTIST_WIKI_URL" refines="#artist" rel="schema:sameAs"/>
-		<link href="COVER_ARTIST_NACOAF_URI" refines="#artist" rel="schema:sameAs"/>
+		<dc:contributor id="artist">Maxime Faivre</dc:contributor>
+		<meta property="file-as" refines="#artist">Faivre, Maxime</meta>
+		<meta property="schema:alternateName" refines="#artist">Léon-Maxime Faivre</meta>
+		<link href="https://en.wikipedia.org/wiki/Maxime_Faivre" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<link href="TRANSCRIBER_1_URL" refines="#transcriber-1" rel="schema:url"/>
+		<dc:contributor id="transcriber-1">Paul Murray</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Murray, Paul</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<link href="TRANSCRIBER_2_URL" refines="#transcriber-2" rel="schema:url"/>
+		<dc:contributor id="transcriber-2">Susan Skinner</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Skinner, Susan</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<link href="PRODUCER_URL" refines="#producer-1" rel="schema:url"/>
+		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
+		<link href="https://www.weijiarhymeswith.asia/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
