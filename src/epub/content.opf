@@ -67,7 +67,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Maxime Faivre</dc:contributor>
 		<meta property="file-as" refines="#artist">Faivre, Maxime</meta>
-		<meta property="schema:alternateName" refines="#artist">Léon-Maxime Faivre</meta>
+		<meta property="schema:alternateName" refines="#artist">Léon Eugène Maxime Faivre</meta>
 		<link href="https://en.wikipedia.org/wiki/Maxime_Faivre" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Paul Murray</dc:contributor>
