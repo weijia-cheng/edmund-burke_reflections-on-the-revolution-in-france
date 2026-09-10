@@ -37,10 +37,10 @@
 		<dc:title id="fulltitle">Reflections on the Revolution in France: And on the Proceedings in Certain Societies in London Relative to That Event, in a Letter Intended to Have Been Sent to a Gentleman in Paris</dc:title>
 		<meta property="file-as" refines="#fulltitle">Reflections on the Revolution in France</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Great Britain -- Politics and government -- 1760-1820</dc:subject>
+		<dc:subject id="subject-1">Great Britain--Politics and government--1760-1820</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85056908</meta>
-		<dc:subject id="subject-2">Political science -- Early works to 1800</dc:subject>
+		<dc:subject id="subject-2">Political science--Early works to 1800</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85104443</meta>
 		<meta property="schema:genre">Nonfiction</meta>
