@@ -51,7 +51,7 @@
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/15679</dc:source>
-		<dc:source>https://catalog.hathitrust.org/Record/006064054</dc:source>
+		<dc:source>https://archive.org/details/worksofedmundbur03burk</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
 		<link href="https://en.wikipedia.org/wiki/Reflections_on_the_Revolution_in_France" rel="schema:sameAs"/>
